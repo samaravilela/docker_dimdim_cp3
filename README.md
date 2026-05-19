@@ -43,7 +43,7 @@ newgrp docker
 ### 1. Clonar o repositório
 
 ```bash
-git clone https://github.com/SEU_USUARIO/dimdimapp.git
+git clone git@github.com:samaravilela/docker_dimdim_cp3.git
 cd dimdimapp
 ```
 
